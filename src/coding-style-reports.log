@@ -1,0 +1,9 @@
+./sokoban.c:67: MAJOR:C-F4
+./test/test_countchars.c:11: MINOR:C-F2
+./test/test_countchars.c:15: MINOR:C-L6
+./test/test_countchars.c:18: MINOR:C-F2
+./test/test_countchars.c:22: MINOR:C-L6
+./test/test_countchars.c:25: MINOR:C-F2
+./test/test_countchars.c:29: MINOR:C-L6
+./test/test_countchars.c:32: MINOR:C-F2
+./test/test_countchars.c:36: MINOR:C-L6
